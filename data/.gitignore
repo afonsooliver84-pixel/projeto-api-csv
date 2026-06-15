@@ -1,0 +1,13 @@
+
+# ignorar csv gerado
+data/dados.csv
+
+# cache python
+__pycache__/
+*.pyc
+
+# arquivos de IDE
+.idea/
+
+# sistema
+.DS_Store
